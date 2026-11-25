@@ -1,0 +1,6 @@
+{
+  "name": "MathLab XII — Modul Pembelajaran Matematika",
+  "description": "Modul pembelajaran matematika interaktif Kelas XII (Statistika Regresi, Transformasi Fungsi, serta Kaidah Pencacahan & Peluang Kejadian Majemuk) oleh Naadhim Fahly Mubaarok (XII SIJA 2 — SMK Telkom Sidoarjo) untuk Penugasan Pengganti Nilai Tugas KPP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
